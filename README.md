@@ -1,4 +1,4 @@
-# HiApp
+# HiApp (Movie List)
 
 This is my training course to learn angular i would like to share with git. You can access original course file from (https://github.com/coursefiles/angular-essential-training)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.12.
